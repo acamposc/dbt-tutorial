@@ -1,0 +1,8 @@
+
+target/
+dbt_modules/
+logs/
+bin
+share
+include
+pyenv*
